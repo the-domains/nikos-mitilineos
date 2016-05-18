@@ -1,0 +1,28 @@
+name: Nikos Mitilineos
+favicon: null
+layout_spectrum: 0.2987964255735278
+typography_spectrum: 0.2339045195840299
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.33486004546284676
+  lightness: 0.48425029939971864
+  saturation: 0.8973321011289954
+  rhythmicContrast: 0.8778786882758141
+purpose: []
