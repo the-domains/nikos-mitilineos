@@ -1,20 +1,20 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: Σ’ ΑΛΛΟΥΣ “ανήκει” ο κόσμος όλος.
-datePublished: '2016-05-18T17:16:22.384Z'
-dateModified: '2016-05-18T17:15:14.269Z'
+datePublished: '2016-05-18T17:23:21.523Z'
+dateModified: '2016-05-18T17:23:04.307Z'
 title: 'ΤΑ ΔΗΛΗΤΗΡΙΩΔΗ "ΑΝ"'
 author: []
+sourcePath: _posts/2016-05-18-ta-dhlhthriwdh-an.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-18-ta-dhlhthriwdh-an.md
 url: ta-dhlhthriwdh-an/index.html
-_type: Article
+_type: WebPage
 
 ---
 ### ΤΑ ΔΗΛΗΤΗΡΙΩΔΗ "ΑΝ"
